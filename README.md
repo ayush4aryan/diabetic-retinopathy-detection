@@ -29,7 +29,6 @@ This project uses a pre-trained **Convolutional Neural Network (CNN)** model to 
 
 ## 📸 Demo
 
-> *(Add a screenshot of the retinal image with the predicted label overlayed — optional)*
 
 ---
 
